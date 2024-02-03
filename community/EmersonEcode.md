@@ -27,7 +27,7 @@ Futuro desenvolvedor front-End se possivel um Full-Stack
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonEcode&repo=projeto-blog-com-Angular&&theme=wine" />
 </a>
 <a href="https://github.com/EmersonEcode/pokedex">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonEcode&repo=pokedexd&&theme=wine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EmersonEcode&repo=pokedex&&theme=wine" />
 </a>
 
 
